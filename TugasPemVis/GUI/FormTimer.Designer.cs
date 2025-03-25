@@ -106,7 +106,7 @@
             textBoxMinutes.ForeColor = SystemColors.ActiveBorder;
             textBoxMinutes.Location = new Point(247, 207);
             textBoxMinutes.Name = "textBoxMinutes";
-            textBoxMinutes.PlaceholderText = "Time In Minutes";
+            textBoxMinutes.PlaceholderText = "Time ";
             textBoxMinutes.Size = new Size(300, 39);
             textBoxMinutes.TabIndex = 8;
             textBoxMinutes.TextAlign = HorizontalAlignment.Center;
